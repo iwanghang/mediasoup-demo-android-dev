@@ -1,0 +1,30 @@
+                    Executable : /Users/jimi/Documents/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/jimi/AndroidStudioProjects/Demo/MediaSoup/mediasoup-demo-android-dev/mediasoup-client
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=18
+-DANDROID_PLATFORM=android-18
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/jimi/Documents/Android/sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/Users/jimi/Documents/Android/sdk/ndk/21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=/Users/jimi/Documents/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/jimi/Documents/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/jimi/AndroidStudioProjects/Demo/MediaSoup/mediasoup-demo-android-dev/mediasoup-client/build/intermediates/cxx/Debug/274h2r4a/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/jimi/AndroidStudioProjects/Demo/MediaSoup/mediasoup-demo-android-dev/mediasoup-client/build/intermediates/cxx/Debug/274h2r4a/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/jimi/AndroidStudioProjects/Demo/MediaSoup/mediasoup-demo-android-dev/mediasoup-client/.cxx/Debug/274h2r4a/x86
+-GNinja
+-DLIBWEBRTC_INCLUDE_PATH=/Users/jimi/AndroidStudioProjects/Demo/MediaSoup/mediasoup-demo-android-dev/mediasoup-client/deps/webrtc/src
+-DLIBWEBRTC_BINARY_PATH=/Users/jimi/AndroidStudioProjects/Demo/MediaSoup/mediasoup-demo-android-dev/mediasoup-client/deps/webrtc/lib
+-DMEDIASOUPCLIENT_BUILD_TESTS=OFF
+-DSDPTRANSFORM_BUILD_TESTS=OFF
+-DSDPTRANSFORM_BUILD_READMEHELPER=OFF
+-DMEDIASOUPCLIENT_LOG_TRACE=1
+-DMEDIASOUPCLIENT_LOG_DEV=1
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

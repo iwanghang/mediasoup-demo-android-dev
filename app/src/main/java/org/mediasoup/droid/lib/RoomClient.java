@@ -934,7 +934,7 @@ public class RoomClient extends RoomMessageHandler {
 
     mRecvTransport =
         mMediasoupDevice.createRecvTransport(
-            recvTransportListener, id, iceParameters, iceCandidates, dtlsParameters, null);
+            recvTransportListener, id, iceParameters, iceCandidates, dtlsParameters, null, null);
   }
 
   private SendTransport.Listener sendTransportListener =

@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/jimi/AndroidStudioProjects/Demo/MediaSoup/mediasoup-demo-android-dev/mediasoup-client/.cxx/Debug/274h2r4a/arm64-v8a'
+ninja: no work to do.
