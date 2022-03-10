@@ -21,8 +21,8 @@ release/
 
 # Gradle files
 .gradle/
-build/
-.cxx/
+# build/
+# .cxx/
 
 # Local configuration file (sdk path, etc)
 local.properties
